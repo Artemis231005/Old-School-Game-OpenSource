@@ -107,6 +107,39 @@ export default function LightsOutGame() {
         <p>
           A win is detected when all values in the grid are false (OFF state).
         </p>
+
+        <h2> Cognitive Benefits</h2>
+        1. Improves Logical Thinking and Boosts Efficiency of Prefrontal Cortex: 
+        <p>
+          The game mechanics require players to think in terms of cause and effect. Clicking one light toggles adjacent ones. This encourages the player to plan moves and anticipate patterns.
+        </p>
+        <br></br>
+
+        2. Boosts Working Memory in the Dorsolateral Prefrontal Cortex:
+        <p>
+          Players must remember previous actions and simulate possible outcomes in their minds, engaging their working memory continuously.
+        </p>
+
+      <br></br>
+        3. Enhances Visual-Spatial Skills in the Parietal Lobe:
+        <p>
+          Navigating the grid and planning moves spatially boosts spatial intelligence.
+        </p>
+        <br></br>
+
+        4. Encourages Focus and Improves the Frontal Eye Fields & Thalamus:
+        <p>
+          Without time pressure, players can enter a flow state which is a focused mental mode
+          associated with relaxation and deeper concentration.
+        </p>
+        <br></br>
+
+      <p> These claims are supported by the following resources: <br></br>
+        1. <a href = "https://pmc.ncbi.nlm.nih.gov/articles/PMC12244833/">Efficiency of Brain Training Games on Cognitive Functioning</a>
+        <br></br>
+        2. <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0747563214002672">Effect of Puzzle Games on Executive Functions</a>
+      </p>
+
       </div>
     </div>
   );

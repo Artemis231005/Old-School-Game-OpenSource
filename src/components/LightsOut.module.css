@@ -121,6 +121,16 @@
   border-radius: 6px;
   overflow-x: auto;
 }
+
+.instructions p {
+  text-align: justify;
+}
+
+.instructions a {
+  color: #1a0dab;
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .difficultyButton,
   .reset {
